@@ -19,7 +19,7 @@ while inserting into an array
 
 Since there will be 10 files we can still use just two arrays and fill them with questions for one 
 and answers for the other. The option of using 2 arrays 1 per file (making 20 total arrays) is still applicable
-but seems redundant.
+but seems redundant. Although using multiple arrays could be benifit the use of question catagories.
 
 Since we have not learned how to output to a power point yet I will assume we will learn that method soon.
 Once that is learned we will be able to output the arrays 10 questions/answers at a time for 10 rounds.
