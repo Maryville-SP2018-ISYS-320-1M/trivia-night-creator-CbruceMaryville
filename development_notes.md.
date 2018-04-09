@@ -1,0 +1,29 @@
+Clayton Bruce
+4/8/2018
+
+Fisrt Submission for the Project.
+
+
+Assignment #1
+To hold the questions and answers we could use corresponding arrays.
+For example element 1 if array1 will have the first question,
+Element 1 in array2 will have the first answer
+
+string questionArray[questions 1-100]
+string answerArray[answers 1-100]
+
+These will be read in from a text document and used to fill the arrays using loops to speed the process.
+
+readline() 
+while inserting into an array
+
+Since there will be 10 files we can still use just two arrays and fill them with questions for one 
+and answers for the other. The option of using 2 arrays 1 per file (making 20 total arrays) is still applicable
+but seems redundant.
+
+Since we have not learned how to output to a power point yet I will assume we will learn that method soon.
+Once that is learned we will be able to output the arrays 10 questions/answers at a time for 10 rounds.
+
+Ouput arrayElement(i) with loop to powerpoint
+
+Therefore completing the project.
