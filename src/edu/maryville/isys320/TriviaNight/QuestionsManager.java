@@ -1,10 +1,13 @@
+/*
+  	ISYS 320
+  	Name(s): Clayton Bruce
+  	Date: 5/1/2018
+*/
 package edu.maryville.isys320.TriviaNight;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Scanner;
 
@@ -39,6 +42,8 @@ public class QuestionsManager {
 	}
 	
 	public String[] getCategories() {
+		//need to allow us to choose the category order 
+		//Maybe something like showing what is in the array?
 		return categories.toArray(new String[categories.size()]);
 	}
 	
