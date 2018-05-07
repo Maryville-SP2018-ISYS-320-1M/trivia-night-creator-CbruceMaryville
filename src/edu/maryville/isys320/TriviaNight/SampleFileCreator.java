@@ -1,3 +1,8 @@
+/*
+  	ISYS 320
+  	Name(s): Clayton Bruce
+  	Date: 5/1/2018
+*/
 package edu.maryville.isys320.TriviaNight;
 
 import java.io.*;
@@ -8,6 +13,8 @@ public class SampleFileCreator {
 
 		for (int round = 1; round <= 10; round++) {
 			// Get the output file name and round number
+			
+			//Need to change the category name to an actual NAME somehow
 			String fileName = "category_name_" + round + ".txt";
 			String roundNumber = String.valueOf(round);
 			File f = new File(fileName);
